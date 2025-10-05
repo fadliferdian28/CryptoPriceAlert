@@ -46,3 +46,10 @@ Data provided by [CoinGecko API](https://www.coingecko.com/en/api).
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+# 📊 CryptoPriceAlert  
+**Category:** Crypto • Trading • Web3 • API  
+
+CryptoPriceAlert is a Python-based crypto utility that tracks live cryptocurrency prices from the CoinGecko API.  
+This project contributes to the open-source Web3 ecosystem by helping users automate crypto monitoring.
+
